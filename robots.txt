@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rashad404.github.io/reference-vdyyf7/sitemap.xml
